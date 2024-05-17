@@ -23,4 +23,4 @@
 
 Amante da tecnologia, sempre buscando evoluir constantemente para adquirir mais conhecimento ao longo do tempo.
 
-![Animação da cobrinha](https://github.com/gustavocassioli/gustavocassioli/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/gustavocassioli/gustavocassioli/blob/output/github-contribution-grid-snake.svg)
