@@ -1,61 +1,30 @@
-# Luis Gustavo Cassioli's Portfolio
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=30&pause=1000&color=60F7CD&width=435&lines=Hi+everyone!+I'm+Luis+Gustavo.)](https://git.io/typing-svg)
+<img src="https://t3.ftcdn.net/jpg/05/26/58/82/360_F_526588256_RsCjyS91WJ4T3MA2J4xpTqokLUlGHkyK.webp" alt="Pixel Art" align="right" width="200">
 
-## Olá, sou o Luis Gustavo Cassioli! 👦
+### Technologies and tools:
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavocassioli)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lg_casrod/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Lg_casrod)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Cris-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Cris-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Cris-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Cris-PHP" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt= "Cris-Mysql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">       
+  <img align="center" alt="Cris-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Cris-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div><br>
 
-![GitHub Statistics for Gustavo Cassioli](https://github-readme-stats.vercel.app/api?username=gustavocassioli&show_icons=true&theme=radical)
+### GitHub Stats
 
-## Tecnologias que Utilizo no Meu Dia a Dia
-
-<div style="display: inline_block">
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<div align="center" style="display: flex; justify-content: center;">
+  <a href="https://github.com/gustavocassioli">
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=gustavocassioli&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocassioli&layout=compact&langs_count=7&theme=one_dark_pro"/>
+  </a>
 </div>
+    
+### Contact
 
-<br/>
-
-Sou um entusiasta da tecnologia, sempre buscando evoluir constantemente para adquirir mais conhecimento ao longo do tempo.
-
-## Sobre Mim
-
-Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Com experiência em desenvolvimento web e uma sólida compreensão de diversas tecnologias, estou sempre pronto para enfrentar novos desafios e aprender novas habilidades.
-
-## Projetos Recentes
-
-- **Sistema de Gerenciamento de Tarefas:** Desenvolvi um sistema web para gerenciar tarefas em equipe, utilizando React no frontend e Node.js no backend, integrado com um banco de dados MySQL para armazenamento de dados.
-
-- **Blog Pessoal:** Criei um blog onde compartilho minhas experiências e conhecimentos em tecnologia, utilizando ferramentas e linguagens variadas para atender às minhas necessidades específicas.
-
-## Contato
-
-Fique à vontade para entrar em contato comigo através das redes sociais ou pelo meu e-mail: [rodriguesluizgustavo899@gmail.com](mailto:rodriguesluizgustavo899@gmail.com). Estou sempre aberto a novas oportunidades e colaborações!
-
-## Educação
-
-- **Graduação em Análise e Desenvolvimento de Sistemas** - Universidade Nove de Julho (Ano de Conclusão: 2026)
-- **Técnico Em Informática Para Internet** - Escola Técnica Estadual (Ano de Conclusão: 2023)
-
-## Certificações
-
-- **Certificado em Desenvolvimento Web** - Danki Code (Ano de Conclusão: 2022)
-- **Certificado em Desenvolvimento PHP** - Danki Code (Ano de Conclusão: 2022)
-- **Certificado em Desenvolvimento React** - Danki Code (Ano de Conclusão: 2022)
-- **Certificado em Desenvolvimento Python** - Curso em Video (Ano de Conclusão: 2022)
-
-## Idiomas
-
-- **Português:** Nativo
-- **Inglês:** Intermediário 
-
-## Hobbies
-
-Nas horas vagas, gosto de tocar guitarra, ler e pesquisar sobre novas tecnologias e criar coisas novas.
+<div> 
+  <a href="mailto:rodriguesluizgustavo899@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
