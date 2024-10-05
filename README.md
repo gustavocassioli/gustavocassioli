@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/l0HlItp1yrClcmmpG/giphy.gif)](https://gustavocassioli.github.io/Portfolio/Index.html)
+<!--[![MasterHead](https://media.giphy.com/media/l0HlItp1yrClcmmpG/giphy.gif)](https://gustavocassioli.github.io/Portfolio/Index.html)-->
 
 <h1 align="center">Hi 👋, I'm Luis Gustavo</h1>
 <h3 align="center">A passionate FullStack Developer from Brazil</h3>
