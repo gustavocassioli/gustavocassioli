@@ -50,9 +50,9 @@
 </p>
 
 <p align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=gustavocassioli&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=gustavocassioli&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavocassioli&&theme=tokyonight" alt="GitHub Streak" />
+<p align="left">
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavocassioli&&theme=tokyonight" alt="GitHub Streak" />
 </p>
